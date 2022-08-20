@@ -1,4 +1,4 @@
-# Employee-Performance-Mapping
+# SQL Project-Employee-Performance-Mapping
 
 DESCRIPTION
 
